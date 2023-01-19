@@ -1,0 +1,6 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    color: rgba(23, 245, 101, 0.831);
+    padding-top: 270px;
+}
